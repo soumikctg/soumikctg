@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soumik Dutaa and I'm a Software Engineer, from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Soumik Dutta and I'm a Software Engineer, from Bangladesh</h2>
 
 ###
 
